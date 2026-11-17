@@ -1,0 +1,6 @@
+{
+  "name": "CompTIA A+ Drucker-Werkstatt 3D",
+  "description": "Interaktive 3D-Lern-Web-App für den CompTIA A+ Druckerkurs: Laserdrucker-Bauteile entdecken, den 7-Schritte-Laserdruckprozess meistern und Helpdesk-Tickets lösen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
